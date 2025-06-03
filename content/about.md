@@ -21,13 +21,13 @@ date: "2025-06-01"
 
 ### 转载
 
-- 媒体报道、各种组织的支援信息、评论文章
+- [媒体报道、各种组织的支援信息、评论文章](/posts/000015-reports/)
 
 ### 联系我们
 
 更多关于此事的消息，或追踪此事的进展，请关注：
 
-- 联邦宇宙（Fediverse / Mastodon）账号: [@Phoenix096@mastodon.social](https://mastodon.social/@Phoenix093)
+- 联邦宇宙（Fediverse / Mastodon）账号: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 
 - Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
 
