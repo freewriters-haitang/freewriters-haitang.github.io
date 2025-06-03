@@ -21,21 +21,21 @@ minify:
 
 menu:
   main:
-    - name: Archive
-      url: archives
+    - name: 关于本站
+      url: about/
       weight: 5
+    - name: 信息一览
+      url: archives
+      weight: 15
     - name: 搜索
       url: search/
-      weight: 10
+      weight: 20
     - name: 标签
       url: tags/
-      weight: 15
-    - name: 本站简介
-      url: about/
-      weight: 20
+      weight: 35
     - name: RSS 订阅
       url: index.xml
-      weight: 25
+      weight: 100
 
 outputs:
   home:
@@ -69,8 +69,9 @@ params:
   homeInfoParams:
     Title: "关于「海棠事件」的介绍和援助信息"
     Content: >
-      首页的一些介绍<br>
-      to be continued...
+      关于本站 · 海棠案介绍 · 支援信息 · 媒体报道
+      
+      联邦宇宙账号 · Instagram · 留言板
 
   profileMode:
     enabled: false
