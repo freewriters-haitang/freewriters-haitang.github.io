@@ -66,24 +66,6 @@ params:
   hideFooter: false # 隐藏页脚
   ShowLastMod: false #显示文章更新时间
 
-  homeInfoParams:
-    # Title: "关于「海棠事件」的介绍和援助信息"
-    # Content: >
-    #   <a href="/about/">关于本站</a> · 海棠案介绍 · 支援信息 · 更多信息
-
-  profileMode:
-    enabled: false
-    title: PaperMod
-    imageUrl: "#"
-    imageTitle: my image
-    # imageWidth: 120
-    # imageHeight: 120
-    buttons:
-      - name: Archives
-        url: archives
-      - name: Tags
-        url: tags
-
   assets:
     disableHLJS: true
 
