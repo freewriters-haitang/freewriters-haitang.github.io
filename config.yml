@@ -68,10 +68,13 @@ params:
 
   homeInfoParams:
     Title: "关于「海棠事件」的介绍和援助信息"
-    Content: 
+    Content: >
       关于本站 · 海棠案介绍 · 支援信息 · 媒体报道
       
       联邦宇宙账号 · Instagram · 留言板
+
+     third line 
+
 
   profileMode:
     enabled: false
