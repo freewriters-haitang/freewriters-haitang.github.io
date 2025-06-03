@@ -24,7 +24,7 @@ menu:
     - name: 关于本站
       url: about/
       weight: 5
-    - name: 信息一览
+    - name: 全部文章
       url: archives
       weight: 15
     - name: 搜索
@@ -51,7 +51,7 @@ params:
   defaultTheme: auto
   # disableThemeToggle: true
   ShowShareButtons: false
-  ShowReadingTime: true
+  ShowReadingTime: false
   # disableSpecial1stPost: true
   displayFullLangName: false
   ShowPostNavLinks: true
