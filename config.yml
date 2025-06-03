@@ -67,9 +67,9 @@ params:
   ShowLastMod: false #显示文章更新时间
 
   homeInfoParams:
-    Title: "关于「海棠事件」的介绍和援助信息"
-    Content: >
-      <a href="/about/">关于本站</a> · 海棠案介绍 · 支援信息 · <a href="/about/#%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC">更多信息</a>
+    # Title: "关于「海棠事件」的介绍和援助信息"
+    # Content: >
+    #   <a href="/about/">关于本站</a> · 海棠案介绍 · 支援信息 · 更多信息
 
   profileMode:
     enabled: false
