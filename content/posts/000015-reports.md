@@ -16,6 +16,10 @@ tags: ["resource", "转载"]
 
 ### 援助信息
 
+2025.6.1
+
+[薛红玲](https://chinadigitaltimes.net/chinese/718544.html)：关于为海棠作者提供法律援助的声明
+
 2025.6.3
 
 [WOMEN我们](https://freewriters-haitang.github.io/posts/000040-women/)：【特别传递】海棠当事人问询应对手册
@@ -23,6 +27,8 @@ tags: ["resource", "转载"]
 ### 评论文章 / 自媒体 / 公众号
 
 2025.6.1
+
+[中国数字时代](https://chinadigitaltimes.net/chinese/718523.html)：【网络民议】看到那些被抓和审问的海棠女作者，不知道该说什么
 
 [李宇琛](https://chinadigitaltimes.net/chinese/718536.html)：兰州警方跨省抓了一群写小说的女大学生
 
@@ -32,3 +38,5 @@ tags: ["resource", "转载"]
 2025.6.2
 
 [鸡蛋bot](https://chinadigitaltimes.net/chinese/718557.html)：耽美作者被兰州警方异地执法背后：20年前司法解释亟待与时俱进
+
+[另类叙述](https://chinadigitaltimes.net/chinese/718570.html)：当刑网撒向文字：兰州“远洋捕捞”背后的司法失衡与创作寒冬
