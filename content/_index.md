@@ -8,10 +8,10 @@
 ### 事件简介和资料
 
 - 海棠事件简介 - to do
-- [海棠案详情时间线](https://freewriters-haitang.github.io/posts/000050-arrest-timeline/) updating
+- [海棠案详情时间线](/posts/000050-arrest-timeline/) updating
 - 捐款渠道汇总&现状更新 - to do
-- 科普文1:安抚被捕者情绪并对接心理援助 - to do
-- 科普文2:接受律师介入的益处，促进被捕者亲友接受律师介入 - to do
+- 科普文：[对当事人的心理支持](/posts/000016-psychological-support/)
+- 科普文：[为什么需要接受律师介入？](/posts/000017-why-lawyer/)
 - [搜集事件资料的网盘](https://drive.google.com/drive/folders/1r461Dzhe25YBABCH9S_vH7yg4Fno_WG3)
 
 ### 运动资源
