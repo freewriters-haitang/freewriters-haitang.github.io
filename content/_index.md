@@ -8,7 +8,7 @@
 ### 事件简介和资料
 
 - 海棠事件简介 - to do
-- 海棠案详情时间线 - to do
+- [海棠案详情时间线](https://freewriters-haitang.github.io/posts/000050-arrest-timeline/) updating
 - 捐款渠道汇总&现状更新 - to do
 - 科普文1:安抚被捕者情绪并对接心理援助 - to do
 - 科普文2:接受律师介入的益处，促进被捕者亲友接受律师介入 - to do
