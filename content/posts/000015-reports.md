@@ -28,6 +28,8 @@ tags: ["resource", "转载"]
 
 6.3 [WOMEN我们](https://freewriters-haitang.github.io/posts/000040-women/)：【特别传递】海棠当事人问询应对手册
 
+6.3 [TING说心理](https://mp.weixin.qq.com/s/lwihBtM7JMT6Xt5NnvBihw)：给被捕捞的“小鱼”：危机下的心理支持指南
+
 ### 评论文章 / 自媒体 / 公众号
 
 6.1 [中国数字时代](https://chinadigitaltimes.net/chinese/718523.html)：【网络民议】看到那些被抓和审问的海棠女作者，不知道该说什么
