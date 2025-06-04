@@ -14,6 +14,14 @@ tags: ["resource", "转载"]
 
 [rfa自由亚洲电台](https://www.rfa.org/mandarin/shehui/2025/06/03/china-gay-literature-writer-literature/)：兰州警方跨省抓捕女性网络小说作者 法律与文学自由边界引发热议
 
+### 媒体快讯
+
+6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659)：跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
+
+6.3 [联合早报](https://www.zaobao.com.sg/realtime/china/story20250603-6549984)：港媒：多名耽美写手遭兰州警方跨省传唤
+
+6.3 [联合早报](https://www.zaobao.com.sg/realtime/china/story20250603-6553418)：下午察：网文作者被捕触动了法律界
+
 ### 援助信息
 
 2025.6.1
@@ -33,7 +41,6 @@ tags: ["resource", "转载"]
 [李宇琛](https://chinadigitaltimes.net/chinese/718536.html)：兰州警方跨省抓了一群写小说的女大学生
 
 [木白文笔平平](https://chinadigitaltimes.net/chinese/718566.html)：说说海棠作者被兰州抓捕事件
-
 
 2025.6.2
 
