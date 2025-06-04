@@ -1,5 +1,10 @@
 ## 关于「海棠案件」的介绍和援助信息
 
+其它语言的信息请访问 for other languages
+
+- [English Version 英文版](https://freewriters-haitang.github.io/english/)
+- [日本語](https://freewriters-haitang.github.io/japanese/)
+
 ### 事件简介和资料
 
 - 海棠事件简介 - to do
