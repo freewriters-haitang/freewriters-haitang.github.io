@@ -1,7 +1,7 @@
 baseURL: https://freewriters-haitang.github.io
 title: 「海棠事件」
 theme: [PaperMod]
-languageCode: 'en'
+languageCode: 'zh'
 
 enableInlineShortcodes: true # 允许内联短码
 enableEmoji: true # 允许使用 Emoji 表情，建议 true
