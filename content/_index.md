@@ -23,7 +23,7 @@
 
 ### 转载
 
-- 媒体报道、各种组织的支援信息、评论文章：[中文](https://freewriters-haitang.github.io/posts/000015-reports/)，[英文](https://freewriters-haitang.github.io/english/posts/000015-reports/)
+- [媒体报道、各种组织的支援信息、评论文章：中文](https://freewriters-haitang.github.io/posts/000015-reports/)，[英文](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 - 当事人叙述
 
 ### 如果您想要了解更多关于此事的消息，或追踪此事的进展，请关注：
