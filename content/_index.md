@@ -8,10 +8,10 @@
 ### 事件简介和资料
 
 - 海棠事件简介 - to do
-- [海棠案详情时间线](/posts/000050-arrest-timeline/) updating
+- [海棠案详情时间线](https://freewriters-haitang.github.io/posts/000050-arrest-timeline/) updating
 - 捐款渠道汇总&现状更新 - to do
-- 科普文：[对当事人的心理支援手册](/posts/000016-psychological-support/)
-- 科普文：[为什么需要接受律师介入？](/posts/000017-why-lawyer/)
+- 科普文：[对当事人的心理支援手册](https://freewriters-haitang.github.io/posts/000016-psychological-support/)
+- 科普文：[为什么需要接受律师介入？](https://freewriters-haitang.github.io/posts/000017-why-lawyer/)
 - [搜集事件资料的网盘](https://drive.google.com/drive/folders/1r461Dzhe25YBABCH9S_vH7yg4Fno_WG3)
 
 ### 运动资源
@@ -23,15 +23,14 @@
 
 ### 转载
 
-- [媒体报道、各种组织的支援信息、评论文章](/posts/000015-reports/)
+- 媒体报道、各种组织的支援信息、评论文章：[中文](https://freewriters-haitang.github.io/posts/000015-reports/)，[英文](https://freewriters-haitang.github.io/english/posts/000015-reports/)
 - 当事人叙述
 
-### 联系我们
+### 如果您想要了解更多关于此事的消息，或追踪此事的进展，请关注：
 
-更多关于此事的消息，或追踪此事的进展，请关注：
-
-- 联邦宇宙（Fediverse / Mastodon）账号: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
-- Instagram: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
+- Instagram 账号: [@freewritersofhaitang](https://www.instagram.com/freewritersofhaitang/)
+- 联邦宇宙账号（Fediverse/Mastodon）: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 - 信息发布网站：[https://freewriters-haitang.github.io/](https://freewriters-haitang.github.io/)
 
-也可以通过[留言板](https://cryptpad.fr/form/#/2/form/view/11rS9aG2ilfoe+J-17tKLUWYAdmn03XSze1HJ75zdOY/)对本站进行反馈。
+如果您想在匿名的情况下参与行动，请致邮：[p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com) 
+
