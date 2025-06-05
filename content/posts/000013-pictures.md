@@ -4,7 +4,7 @@ date: "2025-06-01"
 tags: ["活动","resource"] 
 ---
 
-网友贡献。请大家自由取用。
+更多图片在 [Google Drive 网盘](https://drive.google.com/drive/folders/1L7DVBRrGF58aoiCjGhzfGGYSJiXadpT4)。网友贡献。请大家自由取用。
 
 ----
 
