@@ -34,6 +34,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 ### 评论文章 / 自媒体 / 公众号
 
+2024.12 [陈碧 赵宏](https://freewriters-haitang.github.io/posts/000120-what-freedom/)：写作色情小说究竟属于什么自由？
+
 6.1 [中国数字时代](https://chinadigitaltimes.net/chinese/718523.html)：【网络民议】看到那些被抓和审问的海棠女作者，不知道该说什么
 
 6.1 [李宇琛](https://chinadigitaltimes.net/chinese/718536.html)：兰州警方跨省抓了一群写小说的女大学生
@@ -43,3 +45,7 @@ tags: ["resource", "media", "narravive", "repost"]
 6.2 [鸡蛋bot](https://chinadigitaltimes.net/chinese/718557.html)：耽美作者被兰州警方异地执法背后：20年前司法解释亟待与时俱进
 
 6.2 [另类叙述](https://chinadigitaltimes.net/chinese/718570.html)：当刑网撒向文字：兰州“远洋捕捞”背后的司法失衡与创作寒冬
+
+6.2 [吴怡萱](https://freewriters-haitang.github.io/posts/000100-wuyixuan/)：海棠作者们，也写了“世界上最危险的书”吗？
+
+6.5 [劳东燕](https://freewriters-haitang.github.io/posts/000110-laodongyan/)：海棠文学城作者被刑事追诉，有哪些值得注意的问题？
