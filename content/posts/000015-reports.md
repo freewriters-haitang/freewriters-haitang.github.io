@@ -6,6 +6,12 @@ tags: ["resource", "media", "narravive", "repost"]
 
 **一些已经翻译成英文的报道，请访问[这里](https://freewriters-haitang.github.io/english/posts/000015-reports/)。**
 
+### 相关人士自述
+
+5.18 [志愿者转载作者口述](https://freewriters-haitang.github.io/posts/000060-518-author/)
+
+6.2 [作者自述](https://freewriters-haitang.github.io/posts/000140-narrative-luxiawurenshiyi/) by 一棵松报有信来
+
 ### 媒体报道
 
 2018.11 [CNN](https://www.cnn.com/2018/11/19/china/chinese-erotic-fiction-writer-prison-intl/index.html)：Chinese writer sentenced to 10 years in prison for homoerotic book
