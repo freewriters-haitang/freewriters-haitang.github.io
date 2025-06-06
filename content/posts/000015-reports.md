@@ -16,6 +16,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.3 [rfa自由亚洲电台](https://www.rfa.org/mandarin/shehui/2025/06/03/china-gay-literature-writer-literature/)：兰州警方跨省抓捕女性网络小说作者 法律与文学自由边界引发热议
 
+6.6 [三联生活周刊](https://freewriters-haitang.github.io/posts/000130-lifeweek/)：海棠作者被异地传唤：耽美作品涉罪的边界与争议
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659)：跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
