@@ -1,5 +1,5 @@
 ---
-title: "作者自述：一棵松报有信来" 
+title: "作者自述 by 一棵松报有信来" 
 date: "2025-06-02T13:05:00+08:00"
 tags: ["author", "narravive", "repost"] 
 ---
