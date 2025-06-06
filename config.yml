@@ -17,6 +17,10 @@ pygmentsUseClasses: true
 # relativeURLs: true
 mainsections: ["posts"]
 
+services:
+  disqus:
+    shortname: freewriters-haitang
+
 minify:
   disableXML: true
   # minifyOutput: true
