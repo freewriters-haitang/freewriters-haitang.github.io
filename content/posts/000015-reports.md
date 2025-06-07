@@ -24,6 +24,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.6 [三联生活周刊](https://freewriters-haitang.github.io/posts/000130-lifeweek/)：海棠作者被异地传唤：耽美作品涉罪的边界与争议
 
+6.7 [财新网](https://china.caixin.com/2025-06-07/102328114.html)：海棠网又卷入刑案 有耽美作者已被兰州警方移送起诉
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659)：跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
