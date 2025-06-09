@@ -28,6 +28,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 5.31 [作者自述](https://freewriters-haitang.github.io/posts/000180-p135/)：化名135
 
+6.1 [作者自述](https://freewriters-haitang.github.io/posts/000280-p156/)：化名156
+
 6.2 [作者自述](https://freewriters-haitang.github.io/posts/000140-p141/)：化名141
 
 6.2 [作者自述](https://freewriters-haitang.github.io/posts/000150-author-134)：化名134
