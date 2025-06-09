@@ -30,6 +30,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 ### 援助信息
 
+转载：[兰州类案 Q&A](https://freewriters-haitang.github.io/posts/000290-lawyer-qa/)
+
 6.1 [薛红玲](https://chinadigitaltimes.net/chinese/718544.html)：关于为海棠作者提供法律援助的声明
 
 6.3 [WOMEN我们](https://freewriters-haitang.github.io/posts/000040-women/)：【特别传递】海棠当事人问询应对手册
