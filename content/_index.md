@@ -5,6 +5,8 @@
 - [English Version 英文版](https://freewriters-haitang.github.io/english/)
 - [日本語](https://freewriters-haitang.github.io/japanese/)
 
+**各种 [联系我们](https://freewriters-haitang.github.io/contact) 的方式。**
+
 ### 事件简介和资料
 
 - 海棠事件简介 - to do
@@ -32,4 +34,3 @@
 - 联邦宇宙账号（Fediverse/Mastodon）: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 - 信息发布网站：[https://freewriters-haitang.github.io/](https://freewriters-haitang.github.io/)
 
-### 更多 [联系我们](https://freewriters-haitang.github.io/contact) 的方式！！！
