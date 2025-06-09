@@ -23,9 +23,9 @@ minify:
 
 menu:
   main:
-#    - name: 关于本站
-#      url: about/
-#      weight: 5
+    - name: 联系我们
+      url: contact/
+      weight: 5
     - name: 全部文章
       url: archives
       weight: 15
