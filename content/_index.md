@@ -32,5 +32,4 @@
 - 联邦宇宙账号（Fediverse/Mastodon）: [@Phoenix093@mastodon.social](https://mastodon.social/@Phoenix093)
 - 信息发布网站：[https://freewriters-haitang.github.io/](https://freewriters-haitang.github.io/)
 
-如果您想在匿名的情况下参与行动，请致邮：[p.fictionishumanright@gmail.com](mailto:p.fictionishumanright@gmail.com) 
-
+### 更多 [联系我们](https://freewriters-haitang.github.io/contact) 的方式！！！
