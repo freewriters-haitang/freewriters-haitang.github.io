@@ -4,7 +4,7 @@ date: "2025-06-10"
 tags: ["media", "comment", "repost", "piracy"] 
 ---
 
-[原文地址](https://theinitium.com/opinion/20250610-opinion-haitang-arrest)
+[原文地址](https://theinitium.com/opinion/20250610-opinion-haitang-arrest)（付费订阅）
 
 ## 評論｜蘭州大規模抓捕海棠網文作者：「遠洋捕撈」對準底層哀民
 
