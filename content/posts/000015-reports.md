@@ -44,6 +44,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 ### 论文研究
 
+2021.6 [罗翔](https://freewriters-haitang.github.io/posts/000360-luoxiang/) | 论淫秽物品犯罪的惩罚根据与认定标准——走出法益理论一元论的独断
+
 2025.3.19 [Liang Ge](https://freewriters-haitang.github.io/english/posts/000320-liangge/) | The Haitang Incident 2024 and the ugliness of danmei culture/industry
 
 ### 评论文章 / 自媒体 / 公众号
