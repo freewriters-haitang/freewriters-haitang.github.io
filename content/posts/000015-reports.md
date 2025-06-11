@@ -56,10 +56,16 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.1 [木白文笔平平](https://chinadigitaltimes.net/chinese/718566.html) | 说说海棠作者被兰州抓捕事件
 
+6.2 [李宇琛](https://freewriters-haitang.github.io/posts/000350-liyuchen/) | 审判海棠文学的法律停在过去，今天有罪的永远是未来
+
 6.2 [鸡蛋bot](https://chinadigitaltimes.net/chinese/718557.html) | 耽美作者被兰州警方异地执法背后：20年前司法解释亟待与时俱进
 
 6.2 [另类叙述](https://chinadigitaltimes.net/chinese/718570.html) | 当刑网撒向文字：兰州“远洋捕捞”背后的司法失衡与创作寒冬
 
 6.2 [吴怡萱](https://freewriters-haitang.github.io/posts/000100-wuyixuan/) | 海棠作者们，也写了“世界上最危险的书”吗？
+
+6.3 [李宇琛](https://freewriters-haitang.github.io/posts/000340-liyuchen/) | 99条关于海棠文学案的常识
+
+6.4 [金宏伟](https://freewriters-haitang.github.io/posts/000330-jinhongwei/) | 我为什么关注“海棠案”
 
 6.5 [劳东燕](https://freewriters-haitang.github.io/posts/000110-laodongyan/) | 海棠文学城作者被刑事追诉，有哪些值得注意的问题？
