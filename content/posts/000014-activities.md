@@ -29,3 +29,7 @@ tags: ["活动"]
 ### 2025-6-8 日本东京
 
 正联系授权图片。
+
+### 2025-6-10 QueerPatch 在法国酷儿活动中的介绍
+
+[发言稿](https://freewriters-haitang.github.io/posts/000370-french/)
