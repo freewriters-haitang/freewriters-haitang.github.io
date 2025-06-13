@@ -16,13 +16,15 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.3 [rfa自由亚洲电台](https://www.rfa.org/mandarin/shehui/2025/06/03/china-gay-literature-writer-literature/) | 兰州警方跨省抓捕女性网络小说作者 法律与文学自由边界引发热议
 
-6.6 [三联生活周刊](https://freewriters-haitang.github.io/posts/000130-lifeweek/) | 海棠作者被异地传唤：耽美作品涉罪的边界与争议
+6.6 [三联生活周刊](https://freewriters-haitang.github.io/posts/000130-lifeweek/) | 海棠作者被异地传唤：耽美作品涉罪的边界与争议（原文已被删）
 
 6.7 [财新网](https://freewriters-haitang.github.io/posts/000270-caixin/) | 海棠网又卷入刑案 有耽美作者已被兰州警方移送起诉
 
 6.10 [端傳媒](https://freewriters-haitang.github.io/posts/000310-theinitium/) | 蘭州大規模抓捕海棠網文作者：「遠洋捕撈」對準底層哀民
 
 6.10 [BBC](https://freewriters-haitang.github.io/posts/000300-bbc/) | 中国再次抓捕同性情色文学写手，当局为何如此忌惮“耽美同人”创作？
+
+6.13 [端傳媒](https://freewriters-haitang.github.io/posts/000380-theinitium/) | 耽美的代价：一场围捕海棠作者的执法风暴
 
 ### 媒体快讯
 
@@ -71,3 +73,5 @@ tags: ["resource", "media", "narravive", "repost"]
 6.4 [金宏伟](https://freewriters-haitang.github.io/posts/000330-jinhongwei/) | 我为什么关注“海棠案”
 
 6.5 [劳东燕](https://freewriters-haitang.github.io/posts/000110-laodongyan/) | 海棠文学城作者被刑事追诉，有哪些值得注意的问题？
+
+6.6 [陈碧](https://freewriters-haitang.github.io/posts/000390-chenbi/) | 海棠案里的证明问题（原文已被删）
