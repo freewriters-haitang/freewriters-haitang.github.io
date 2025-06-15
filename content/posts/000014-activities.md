@@ -4,6 +4,8 @@ date: "2025-06-01"
 tags: ["活动"] 
 ---
 
+为各地活动准备的文宣材料和印刷品模板：[网盘](https://drive.google.com/drive/folders/116zywSst_OCRI6or0X7HEZgQnvU63wL6)
+
 目前行动大约会涵盖到的城市和日期如下：
 
 - 美国华盛顿DC  6月6日或6月7日
