@@ -24,6 +24,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.10 [BBC](https://freewriters-haitang.github.io/posts/000300-bbc/) | 中国再次抓捕同性情色文学写手，当局为何如此忌惮“耽美同人”创作？
 
+6.12 [ABC](https://www.abc.net.au/news/2025-06-12/police-in-china-arrest-female-writers-over-homosexual-novels/105403258) | Police in China arrest female authors of homosexual novels in crackdown on 'boys love' fiction genre
+
 6.13 [端傳媒](https://freewriters-haitang.github.io/posts/000380-theinitium/) | 耽美的代价：一场围捕海棠作者的执法风暴
 
 ### 媒体快讯
