@@ -28,6 +28,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.13 [端傳媒](https://freewriters-haitang.github.io/posts/000380-theinitium/) | 耽美的代价：一场围捕海棠作者的执法风暴
 
+6.18 [低音](https://freewriters-haitang.github.io/posts/000420-voiceless/) | 从远洋捕捞案谈耽美小说的罪与罚：谁的情色，谁的秩序？
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659) | 跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
