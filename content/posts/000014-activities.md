@@ -60,6 +60,10 @@ tags: ["activity"]
 
 ![](https://freewriters-haitang.github.io/posts/000014-activities/20250615-Finland.jpg)
 
+### 2025-6-21，英国，伦敦，dyke march 拉拉游行
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250621-uk-london.jpg)
+
 ---
 
 ## 筹备中
@@ -71,6 +75,8 @@ tags: ["activity"]
 ### 2025-6-27，英国，伦敦
 
 ### 2025-6-28，加拿大，多伦多
+
+### 2025-6-29，美国，西雅图
 
 ### 2025-7-5，荷兰，阿姆斯特丹
 
