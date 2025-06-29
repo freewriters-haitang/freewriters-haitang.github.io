@@ -64,17 +64,29 @@ tags: ["activity"]
 
 ![](https://freewriters-haitang.github.io/posts/000014-activities/20250621-uk-london.jpg)
 
+### 2025-6-28，加拿大，多伦多，Dyke march
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-1.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-2.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-3.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-4.jpg)
+
+### 2025-6-29，澳大利亚，悉尼
+
+[边缘诞糕](https://freewriters-haitang.github.io/posts/000440-fruitcake/) | Chinese Queers Are Not Safe - And We Refuse to Be Silenced
+
 ---
 
-## 筹备中
+## 筹备中 / 图片等待授权
 
 ### 2025-6-21，德国
 
 ![](https://freewriters-haitang.github.io/posts/000014-activities/20250615-germany.jpg)
 
 ### 2025-6-27，英国，伦敦
-
-### 2025-6-28，加拿大，多伦多
 
 ### 2025-6-29，美国，西雅图
 
