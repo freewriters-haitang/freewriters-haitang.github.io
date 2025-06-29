@@ -30,6 +30,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.18 [低音](https://freewriters-haitang.github.io/posts/000420-voiceless/) | 从远洋捕捞案谈耽美小说的罪与罚：谁的情色，谁的秩序？
 
+6.26 [虛詞](https://freewriters-haitang.github.io/posts/000430-p-articles/) | 中國網絡文學年增200萬部 容不下BL題材 逾50位海棠作家被捕
+
 6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
 
 ### 媒体快讯
