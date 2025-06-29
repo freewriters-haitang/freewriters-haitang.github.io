@@ -1,8 +1,10 @@
 ---
 title: "虛詞 | 中國網絡文學年增200萬部 容不下BL題材 逾50位海棠作家被捕" 
 date: "2025-06-26"
-tags: ["resource", "media", "narravive", "repost"] 
+tags: ["media", "repost"] 
 ---
+
+[原文地址](https://p-articles.com/heteroglossia/5357.html) | 虛詞
 
 ## 中國網絡文學年增200萬部 容不下BL題材 逾50位海棠作家被捕
 
