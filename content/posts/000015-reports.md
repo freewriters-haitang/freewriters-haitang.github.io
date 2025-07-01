@@ -36,6 +36,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.30 [BBC](https://freewriters-haitang.github.io/english/posts/000450-bbc/) | 'Every word has come back to haunt me': China cracks down on women who write gay erotica
 
+6.30 [Advocate](https://freewriters-haitang.github.io/english/posts/000460-advocate/) | Chinese police arrest dozens of gay erotica writers in pornography crackdown
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659) | 跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
