@@ -4,7 +4,7 @@ date: "2025-06-03"
 tags: ["resource", "media", "narravive", "repost"] 
 ---
 
-**一些已经翻译成英文的报道，请访问[这里](https://freewriters-haitang.github.io/english/posts/000015-reports/)。**
+**一些英文原文、或已经翻译成英文的报道，请访问[这里](https://freewriters-haitang.github.io/english/posts/000015-reports/)。**
 
 ### 媒体报道
 
@@ -33,6 +33,8 @@ tags: ["resource", "media", "narravive", "repost"]
 6.26 [虛詞](https://freewriters-haitang.github.io/posts/000430-p-articles/) | 中國網絡文學年增200萬部 容不下BL題材 逾50位海棠作家被捕
 
 6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
+
+6.30 [BBC](https://freewriters-haitang.github.io/english/posts/000450-bbc/) | 'Every word has come back to haunt me': China cracks down on women who write gay erotica
 
 ### 媒体快讯
 
