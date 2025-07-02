@@ -32,11 +32,15 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.26 [虛詞](https://freewriters-haitang.github.io/posts/000430-p-articles/) | 中國網絡文學年增200萬部 容不下BL題材 逾50位海棠作家被捕
 
+6.26 [The Economist](https://freewriters-haitang.github.io/english/posts/000480-economist/) | Chinese cops are cuffing erotica
+
 6.28 [New York Times](https://www.nytimes.com/2025/06/28/world/asia/china-boys-love-women.html) | Chinese Police Detain Dozens of Writers Over Gay Erotic Online Novels
 
 6.30 [BBC](https://freewriters-haitang.github.io/english/posts/000450-bbc/) | 'Every word has come back to haunt me': China cracks down on women who write gay erotica
 
 6.30 [Advocate](https://freewriters-haitang.github.io/english/posts/000460-advocate/) | Chinese police arrest dozens of gay erotica writers in pornography crackdown
+
+6.30 [them](https://freewriters-haitang.github.io/english/posts/000470-them/) | A Wave of Arrests in China Is Targeting Gay Erotica Authors
 
 ### 媒体快讯
 
