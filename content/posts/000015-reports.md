@@ -42,6 +42,8 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.30 [them](https://freewriters-haitang.github.io/english/posts/000470-them/) | A Wave of Arrests in China Is Targeting Gay Erotica Authors
 
+7.2 [BBC](https://www.tiktok.com/@bbcnews/video/7522133239092366614) | TikTok News Video
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659) | 跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
