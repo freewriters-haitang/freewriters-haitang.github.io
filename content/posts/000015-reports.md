@@ -93,3 +93,5 @@ tags: ["resource", "media", "narravive", "repost"]
 6.5 [劳东燕](https://freewriters-haitang.github.io/posts/000110-laodongyan/) | 海棠文学城作者被刑事追诉，有哪些值得注意的问题？
 
 6.6 [陈碧](https://freewriters-haitang.github.io/posts/000390-chenbi/) | 海棠案里的证明问题（原文已被删）
+
+6.30 [水瓶纪元](https://freewriters-haitang.github.io/posts/000490-aquariuseras/) | 跨省抓捕海棠作者案：一次没有真正受害者的犯罪
