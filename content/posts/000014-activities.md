@@ -74,9 +74,35 @@ tags: ["activity"]
 
 ![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-4.jpg)
 
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-canada-toronto-5.jpg)
+
+### 2025-6-28，法国，巴黎
+
+Paris pride parade / Marche des fiertés de Paris
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250628-french-paris.jpg)
+
 ### 2025-6-29，澳大利亚，悉尼
 
 [边缘诞糕](https://freewriters-haitang.github.io/posts/000440-fruitcake/) | Chinese Queers Are Not Safe - And We Refuse to Be Silenced
+
+### 2025-6-29，美国，西雅图，Seattle Pride Parade
+
+> 在游行的过程中，从Ace&Aro队伍里过来一位说“解放海棠”、和我们击掌的朋友，还有个白人姑娘过来给了我们一把《魔道祖师》的贴纸！同时，我们打印的所有传单也都分发完毕。
+
+### 2025-6-29，美国，纽约
+
+NYC Queer Liberation March & Dyke March
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-ny-1.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-ny-2.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-ny-3.jpg)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-ny-4.jpg)
+
+### 2025-7-5，英国，伦敦
 
 ---
 
