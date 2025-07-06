@@ -90,6 +90,10 @@ Paris pride parade / Marche des fiertés de Paris
 
 > 在游行的过程中，从Ace&Aro队伍里过来一位说“解放海棠”、和我们击掌的朋友，还有个白人姑娘过来给了我们一把《魔道祖师》的贴纸！同时，我们打印的所有传单也都分发完毕。
 
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-seattle-1.webp)
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250629-usa-seattle-2.webp)
+
 ### 2025-6-29，美国，纽约
 
 NYC Queer Liberation March & Dyke March
