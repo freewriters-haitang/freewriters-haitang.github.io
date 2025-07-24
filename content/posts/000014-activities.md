@@ -120,11 +120,5 @@ NYC Queer Liberation March & Dyke March
 
 ![](https://freewriters-haitang.github.io/posts/000014-activities/20250615-germany.jpg)
 
-### 2025-6-27，英国，伦敦
-
-### 2025-6-29，美国，西雅图
-
-### 2025-7-5，荷兰，阿姆斯特丹
-
 …………
 
