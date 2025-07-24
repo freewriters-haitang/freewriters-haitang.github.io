@@ -108,6 +108,10 @@ NYC Queer Liberation March & Dyke March
 
 ### 2025-7-5，英国，伦敦
 
+### 2025-7-13，英国，布里斯托，Bristol Pride
+
+![](https://freewriters-haitang.github.io/posts/000014-activities/20250713-uk-bristol.webp)
+
 ---
 
 ## 筹备中 / 图片等待授权
