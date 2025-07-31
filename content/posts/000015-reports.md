@@ -96,4 +96,4 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.30 [水瓶纪元](https://freewriters-haitang.github.io/posts/000490-aquariuseras/) | 跨省抓捕海棠作者案：一次没有真正受害者的犯罪
 
-7.16 [播客 词与物](https://open.spotify.com/episode/0vZU3Tk6fNrOcedIZ9dbxP) | VOL32.作者之“死”II：捕捞之下，因写而罪
+7.16 [播客 词与物](https://shows.acast.com/lesmotsetleschoses/episodes/vol31ii) | VOL32.作者之“死”II：捕捞之下，因写而罪
