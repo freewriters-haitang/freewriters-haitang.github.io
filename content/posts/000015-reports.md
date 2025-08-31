@@ -46,6 +46,10 @@ tags: ["resource", "media", "narravive", "repost"]
 
 8.3 [DW](https://www.dw.com/zh/%E6%B5%B7%E6%A3%A0%E5%A4%A7%E6%8A%93%E6%8D%95%E5%90%8E-%E4%B8%AD%E5%9B%BD%E8%80%BD%E7%BE%8E%E5%9C%88%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E/a-73504530) | “海棠”大抓捕后 中国耽美圈何去何从？
 
+8.20 [報導者](https://www.twreporter.org/a/the-haitang-authors-arrests-aftermath) | 浪漫能否至死不渝──「海棠耽美作家大抓捕」3個月後，她們怎麼了
+
+8.20 [報導者](https://www.twreporter.org/a/the-haitang-authors-arrests-and-bl-history) | 從「海棠耽美作家大抓捕」，回看兩岸「腐文化」交流與斷流
+
 ### 媒体快讯
 
 6.3 [明報](https://news.mingpao.com/pns/%E4%B8%AD%E5%9C%8B/article/20250603/s00013/1748887620659) | 跨省拘多名「耽美」女大學生 法律界聲援關注條列過時
