@@ -34,6 +34,7 @@ tags: ["resource", "media", "narravive", "repost"]
 
 6.2 [作者自述](https://freewriters-haitang.github.io/posts/000150-author-134)：化名134
 
+7.30 [作者自述](https://freewriters-haitang.github.io/posts/000520-p0730)：一位迟到的海棠作者
 
 ### 网友的情况介绍和补充
 
